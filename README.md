@@ -9,10 +9,9 @@
 - 📫 How to reach me: [Post here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - ⚡ Fun fact : **_I can solve the [rubiks] cube 2x2, 3x3, 4x4, 5x5, Mirror cube, Pyramid and Megaminx Cube_**
 
-<img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[Twitter][twitter] **|** 
+**>|** <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[Twitter][twitter] **|** 
 <img src="https://img.icons8.com/color/20/000000/linkedin.png"/>[Linkedin][linkedin] **|** 
-<img src="https://raw.githubusercontent.com/forem/forem/master/app/assets/images/devplain.svg" width="25"/> [dev.to][dev.to] **|**
-<img src="https://img.icons8.com/windows/20/000000/hackerrank.png"/>[HackerRank][HackerRank]
+
 <!--
 ![](https://komarev.com/ghpvc/?username=Saketh-Chandra&label=Profile+Views)
 -->
@@ -21,9 +20,9 @@
 [Flask]: http://flask.pocoo.org/
 [Google Cloud Platform]: https://cloud.google.com
 [Django]:https://www.djangoproject.com/
-[twitter]: https://twitter.com/Saketh_Chandra_
-[linkedin]: https://linkedin.com/in/saketh-chandra/
-[dev.to]: https://dev.to/sakethchandra
-[HackerRank]: https://www.hackerrank.com/b_sakethchandra9
+
+[twitter]: https://twitter.com/bhanu_vishwa
+[linkedin]: https://www.linkedin.com/in/bhanu-vishwa-495551183/
+
 
 

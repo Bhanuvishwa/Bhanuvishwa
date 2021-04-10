@@ -11,6 +11,7 @@
 
 **>|** <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[Twitter][twitter] **|** 
 <img src="https://img.icons8.com/color/20/000000/linkedin.png"/>[Linkedin][linkedin] **|** 
+<img src="https://img.icons8.com/color/20/000000/instagram.png"/>[Instagram][instagram] **|** 
 
 <!--
 ![](https://komarev.com/ghpvc/?username=Saketh-Chandra&label=Profile+Views)
@@ -23,6 +24,7 @@
 
 [twitter]: https://twitter.com/bhanu_vishwa
 [linkedin]: https://www.linkedin.com/in/bhanu-vishwa-495551183/
+[instagram]: https://www.instagram.com/_v15hw4_/
 
 
 

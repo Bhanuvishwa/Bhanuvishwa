@@ -3,7 +3,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuvishwa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working on **[DS] and [Windows Memory_Forensics]**
+- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working on **[DS] and [Windows Memory Forensics]**
 - <img src="https://img.icons8.com/wired/15/000000/learning.png"/> I’m currently learning **[Linux Memory Forensics], [Network Forensics]**
 - 💬 Ask me about anything [here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - 📫 How to reach me: [Post here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
@@ -18,7 +18,7 @@
 
 [Linux memory forensics]: https://github.com/volatilityfoundation/volatility/wiki/Linux
 [Network Forensics]: https://www.hackthebox.eu/
-[Windows memory forensics]: https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
+[Windows memory Forensics]: https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
 [DS]:https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
 
 [twitter]: https://twitter.com/bhanu_vishwa
